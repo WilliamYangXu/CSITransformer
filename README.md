@@ -1,8 +1,8 @@
 # Python code for "Transformer Empowered CSI Feedback for Massive MIMO Systems"
 
 ## Requirements: 
-- Python
-- Pytorch
+- python
+- pytorch_gpu
 - numpy
 - matplotlib
 - h5py
