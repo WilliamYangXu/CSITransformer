@@ -4,6 +4,6 @@
 - Python
 - Pytorch
 - numpy
-- matplot
+- matplotlib
  
 <br>The data could be obtained from https://naic.pcl.ac.cn/frame/1
