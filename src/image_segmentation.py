@@ -13,7 +13,7 @@ import random
 import time
 
 from src.loss import NMSE_cuda, NMSELoss, CosSimilarity, rho
-from src.CsiNet import Csi_Net, CS_Net, Csi_Transformer_Net, Csi_CNN_Transformer_Net
+from src.backbone import Csi_Net, CS_Net, Csi_Transformer_Net, Csi_CNN_Transformer_Net
 from src.data import load_data
 import matplotlib.pyplot as plt
 
